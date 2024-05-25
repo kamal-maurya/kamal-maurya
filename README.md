@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kamal Maurya</h1>
-<h3 align="center">A passionate automation solution researcher from India</h3>
+<h3 align="center">A passionate automation research and solution provider from Mumbai Maharashtra India</h3>
 
 - 🌱 I’m currently learning **Python,Javascript,Power BI,Power Query,HTML,SQL/PostgreSQL**
 
