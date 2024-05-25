@@ -2,6 +2,8 @@
 <h3 align="center">A passionate automation research and solution provider from Mumbai Maharashtra India</h3>
 
 - 🌱 I’m currently exploring **Use of Python,Javascript,Power BI,Power Query,HTML,SQL/PostgreSQL in ML,UAT and Automation**
+- ✅ I also build SQL/PostgreSQL based checks to validate Quality,Completeness,Correctness, Accuracy of data.
+- 🏆 I am on a continous endeavour to build Power bi Reports that provide the best and most efficient overview of underlying data.
 
 - 💬 Ask me about **Power BI,Power Query,SQL/PostgreSQL**
 
